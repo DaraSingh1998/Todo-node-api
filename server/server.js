@@ -56,6 +56,7 @@ app.listen(port,()=>{
 });
 
 
-
+// "test": "mocha server/**/*.test.js",
+// "test-watch": "nodemon --exec \"npm test\""
 
 module.exports={app};
