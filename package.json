@@ -18,7 +18,8 @@
     "mongodb": "^3.1.1",
     "mongoose": "^5.2.4",
     "npm": "^6.3.0",
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "mpath": ">=0.5.1"
   },
   "devDependencies": {
     "expect": "^23.4.0",
